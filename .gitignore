@@ -1,0 +1,37 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+*.exe
+*.out
+*.app
+
+/build/
+/bin/
+/dist/
+/Debug/
+/Release/
+
+*.d
+
+.vscode/
+.idea/
+*.code-workspace
+
+*.log
+*.tmp
+
+.DS_Store
+*.swp
+*~
+
+vcpkg_installed/
+external/
+deps/
