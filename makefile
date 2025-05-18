@@ -27,5 +27,8 @@ $(BIN_DIR):
 clean:
 	rm -rf $(OBJ_DIR) $(BIN_DIR)
 
+test: $(TARGET)
+	./bin/Flow --test
+
 run: all
 	./$(TARGET)
