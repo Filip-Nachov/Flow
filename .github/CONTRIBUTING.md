@@ -1,6 +1,6 @@
 # How to Contribute
 
-Thank you for considering contributing to the Kanban Board project! We appreciate your interest and support.
+Thank you for considering contributing to the Flow project! We appreciate your interest and support.
 
 1. **Fork the repository**  
    Click the "Fork" button on the top right of the repository page. 
