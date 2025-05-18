@@ -1,3 +1,47 @@
+# How to Contribute
+
+Thank you for considering contributing to the Kanban Board project! We appreciate your interest and support.
+
+1. **Fork the repository**  
+   Click the "Fork" button on the top right of the repository page. 
+
+2. **Create a branch:**  
+   `git checkout -b feature/ShortDescription`
+
+2. **Make your changes**  
+   - Keep commits focused and atomic.
+   - Add comments and documentation as needed.
+
+3. **Test your changes**  
+   - Make sure the project builds and runs.
+   - Add or update tests if applicable.
+
+4. **Commit your changes**  
+   - Use clear, descriptive commit messages.  
+   - Example:  
+     ```
+     Add task deletion feature
+
+     Allows users to delete tasks from the Kanban board using a new menu option.
+     ```
+
+5. **Push and open a Pull Request**  
+   - Describe what your PR changes and why.
+   - Reference relevant issues if applicable.
+
+## Pull Request Checklist
+
+- [ ] Code compiles and runs.
+- [ ] Adheres to code style.
+- [ ] No merge conflicts.
+- [ ] All relevant tests pass.
+- [ ] PR description is clear and complete.
+
+## Reporting Issues
+
+- Please use GitHub Issues.
+- Include as much detail as possible: steps to reproduce, expected/actual behavior, OS, etc.
+
 # Code Style
 
 * If any of these rules are not followed, the code will not be accepted.
@@ -110,3 +154,5 @@ Flow
   - .gitignore
   - makefile
 ```
+
+Thanks for helping make this project better!
