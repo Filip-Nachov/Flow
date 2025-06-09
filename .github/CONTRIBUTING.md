@@ -8,15 +8,15 @@ Thank you for considering contributing to the Kanban Board project! We appreciat
 2. **Create a branch:**  
    `git checkout -b feature/ShortDescription`
 
-2. **Make your changes**  
+3. **Make your changes**  
    - Keep commits focused and atomic.
    - Add comments and documentation as needed.
 
-3. **Test your changes**  
+4. **Test your changes**  
    - Make sure the project builds and runs.
    - Add or update tests if applicable.
 
-4. **Commit your changes**  
+5. **Commit your changes**  
    - Use clear, descriptive commit messages.  
    - Example:  
      ```
@@ -25,7 +25,7 @@ Thank you for considering contributing to the Kanban Board project! We appreciat
      Allows users to delete tasks from the Kanban board using a new menu option.
      ```
 
-5. **Push and open a Pull Request**  
+6. **Push and open a Pull Request**  
    - Describe what your PR changes and why.
    - Reference relevant issues if applicable.
 
