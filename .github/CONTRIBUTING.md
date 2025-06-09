@@ -142,6 +142,16 @@ Thank you for considering contributing to Flow project! We appreciate your inter
 - Do keep your code clean and well-organized
 - Don’t skip testing just because “it compiles”
 
+## Commit Types:
+* when writing commits its important that they have a type so we can know the purpose of the commit to do that just make sure to put one of these at the beginning of the commit message:
+
+- Feature | New functionality
+- Fix | Bug fixes 
+- Refactor | Code changes that don't alter functionality
+- Docs | Documentation updates
+- Test | Adding or updating Tests
+- Style | Formatting, indentation, whitespace, etc.
+- Chore | Build config, dependencies, CI updates, etc.
 
 # Structure
 
