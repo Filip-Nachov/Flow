@@ -1,7 +1,10 @@
 # How to Contribute
 
 Thank you for considering contributing to Flow project! We appreciate your interest and support.
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 
 1. **Fork the repository**  
    Click the "Fork" button on the top right of the repository page. 
@@ -79,7 +82,7 @@ Thank you for considering contributing to Flow project! We appreciate your inter
 - Prefer free functions and structs over classes and OOP except where OOP is clearly beneficial
 - Pass non-trivial types by `const &` when not modifying
 - Your code of functions should be easy to read and modify so avoid using comments
-- Dont use much 'goto' statements, if you need to use them then you should refactor your code (unless they are really needed)
+- Avoid goto unless absolutely necessary. If you're reaching for it, rethink your logic.
 
 ## Classes and Structs
 - Use **PascalCase** for class and struct names (e.g., `Task`, `BoardColumn`)
