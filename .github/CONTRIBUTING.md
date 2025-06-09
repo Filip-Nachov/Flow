@@ -1,10 +1,7 @@
 # How to Contribute
 
-<<<<<<< HEAD
 Thank you for considering contributing to Flow project! We appreciate your interest and support.
-=======
-Thank you for considering contributing to the Flow project! We appreciate your interest and support.
->>>>>>> 88b27f73de6b9d68777aeb803e40c3ad04d57a33
+
 
 1. **Fork the repository**  
    Click the "Fork" button on the top right of the repository page. 
