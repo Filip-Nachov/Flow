@@ -19,8 +19,7 @@
 ## Codebase Foundation
 - [x] Create minimal `main.cpp` that builds and runs
 - [ ] Add placeholder files for main modules (`task.cpp/hpp`, `board.cpp/hpp`)
-- [ ] Set up header guards or use `#pragma once` in headers
-- [ ] Create example data file (e.g., `data/board.json`)
+- [x] Set up header guards or use `#pragma once` in headers
 
 ## Features
 - [ ] Implement basic `Task` struct (id, title, status)
