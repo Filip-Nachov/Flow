@@ -1,10 +1,7 @@
 # How to Contribute
 
 Thank you for considering contributing to Flow project! We appreciate your interest and support.
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 
 1. **Fork the repository**  
    Click the "Fork" button on the top right of the repository page. 
