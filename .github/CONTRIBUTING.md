@@ -133,6 +133,16 @@ Thank you for considering contributing to Flow project! We appreciate your inter
 - Avoid manual `new`/`delete` unless absolutely necessary
 - if using pointers free them when not needed anymore
 
+## Do's and Don'ts:
+- Don’t copy code from other projects without understanding it or getting permission
+- Do ask for help if you’re unsure about something
+- Don’t commit broken code with “fix later maybe” messages
+- Do write clear commit messages that explain your changes
+- Don’t submit large PRs without breaking them into smaller, manageable pieces
+- Do keep your code clean and well-organized
+- Don’t skip testing just because “it compiles”
+
+
 # Structure
 
 This is the main structure and should be followed, if not then the changes will not be accepted
